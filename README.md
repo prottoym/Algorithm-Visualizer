@@ -125,41 +125,18 @@ algorithm-visualizer/
 
 This project is deployed for free on **Vercel**.
 
-> **Live Demo:** [https://algorithm-visualizer-yourname.vercel.app](https://algorithm-visualizer-yourname.vercel.app)
-
-To deploy your own copy:
-
-1. Push this repo to GitHub
-2. Go to [vercel.com](https://vercel.com) and sign in with GitHub
-3. Click **Add New Project** → import this repo
-4. Click **Deploy** — no configuration needed
-
----
+> **Live Demo:** [algorithm-visualizer-9310uc0m6-prottoymodak.vercel.app)
 
 ##  Customization
 
 ### Change the color theme
 Edit the CSS variables in `src/index.css`:
 
-```css
-:root {
-  --accent: #7c3aed;   
-  --accent2: #06b6d4;  
-  --accent3: #f59e0b;
-}
-```
 
-### Add a new algorithm
-1. Create `src/components/YourAlgorithm.jsx`
-2. Import it in `src/App.jsx`
-3. Add it to the `CATEGORIES` array with its label and complexity info
-
----
 
 ## 📸 Screenshots
-
-> ![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img width="1541" height="906" alt="image" src="https://github.com/user-attachments/assets/7d9fa233-3f52-47f0-a0ec-8cf85377c3ce" />
+<img width="1508" height="900" alt="image" src="https://github.com/user-attachments/assets/f90aa726-267d-4c98-af21-813c6b722c33" />
+<img width="1467" height="902" alt="image" src="https://github.com/user-attachments/assets/f7ee65dc-7c9d-4f7f-a832-16854fc60766" />
 
 ---

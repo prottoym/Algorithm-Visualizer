@@ -125,7 +125,7 @@ algorithm-visualizer/
 
 This project is deployed for free on **Vercel**.
 
-> **Live Demo:** [algorithm-visualizer-9310uc0m6-prottoymodak.vercel.app)
+> **Live Demo:** [algorithm-visualizer-9310uc0m6-prottoymodak.vercel.app]
 
 ##  Customization
 
